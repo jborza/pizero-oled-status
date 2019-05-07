@@ -9,3 +9,5 @@ Installation:
 3. Install adafruit oled library: `git clone https://github.com/adafruit/Adafruit_Python_SSD1306.git`
 4. in the library folder run `sudo python3 setup.py install`
 5. set this script to run at boot time
+
+![oled](media/oled_status.jpg?raw=true)
